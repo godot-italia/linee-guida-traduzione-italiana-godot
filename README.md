@@ -1,6 +1,6 @@
-# Linee guida per la traduzione in italiano di "Godot Engine"
+# Linee guida per la traduzione in italiano di Godot Engine
 
-Queste sono le linee guida per la traduzione in italiano di tutte le risorse di "[Godot Engine](https://godotengine.org)", un motore di gioco multipiattaforma libero e aperto offerto in licenza MIT.
+Queste sono le linee guida per la traduzione in italiano di tutte le risorse di [Godot Engine](https://godotengine.org), un motore di gioco multipiattaforma libero e aperto offerto in licenza MIT.
 
 Attualmente, il progetto è in uno stato molto incompleto. Per ora, esso è diviso in 3 documenti: `glossario.md`, `errori-comuni.md` e `stile.md`.
 È disponibile una cronologia sulle revisioni alle traduzioni attuali segnalate dagli utenti nel documento `revisioni.md`.
