@@ -8,7 +8,7 @@
 
 ## Programmazione
  - Debugger: Debugger (Rimane invariato non avendo trovato nessuna valida alternativa che non confonda gli utenti più esperti, che sono i primi utilizzatori di questo strumento)
- - Debug: Debug (Rimane invariato per motivi sili a quelli sopra)
+ - Debug: Debug (Rimane invariato per motivi simili a quelli sopra)
  - Soft reload: Ricarica parziale
  - Breakpoint: Punto d'interruzione
 
