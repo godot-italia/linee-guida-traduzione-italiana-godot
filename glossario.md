@@ -14,6 +14,7 @@
 
 ## Animazione
  - (Bezier) control point: Punto di controllo (di Bézier) NOTA: Nelle stringhe originali, "Bézier" è scritto senza accento. Questo è un errore da non riportare nella traduzione.
+ - Key(frame): (Fotogramma) chiave. NOTA: L'uso esclusivo di "chiave" in questo contesto è da considerarsi corretto essendo un vocabolo ricco di sfaccettature e di significati.
 
 ## Tastiera
  - Shift: Maiusc
