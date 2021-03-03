@@ -12,6 +12,8 @@
  - Soft reload: Ricarica parziale
  - Breakpoint: Punto d'interruzione
  - Script: Invariato (quando si ci riferisce a un file contenente delle istruzioni) o codice (quando ci si riferisce a solo alle istruzioni)
+ - Warning: Avviso
+ - Error: Errore
 
 ## Animazione
  - (Bezier) control point: Punto di controllo (di Bézier) NOTA: Nelle stringhe originali, "Bézier" è scritto senza accento. Questo è un errore da non riportare nella traduzione.
