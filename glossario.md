@@ -14,6 +14,7 @@
  - Script: Invariato (quando si ci riferisce a un file contenente delle istruzioni) o codice (quando ci si riferisce a solo alle istruzioni)
  - Warning: Avviso
  - Error: Errore
+ - To attach a script: Assegnare uno script
 
 ## Animazione
  - (Bezier) control point: Punto di controllo (di Bézier) NOTA: Nelle stringhe originali, "Bézier" è scritto senza accento. Questo è un errore da non riportare nella traduzione.
