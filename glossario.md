@@ -9,6 +9,7 @@
  - Spinner: Rotella
  - Dock: Pannello
  - Clip: Segmento (quando si parla di "Audio Clip", "Animation Clip" e simili)
+ - Plugin: Estensione
 
 ## Programmazione
  - Debugger: Debugger (Rimane invariato non avendo trovato nessuna valida alternativa che non confonda gli utenti più esperti, che sono i primi utilizzatori di questo strumento)
