@@ -5,6 +5,7 @@
  - Step: Passo
  - Snap: Scatto
  - Toggle: Commuta
+ - Bug: Invariato
 
 ## Programmazione
  - Debugger: Debugger (Rimane invariato non avendo trovato nessuna valida alternativa che non confonda gli utenti più esperti, che sono i primi utilizzatori di questo strumento)
