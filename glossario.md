@@ -13,6 +13,7 @@
  - Resource: Risorsa
  - Asset: Contenuto
  - Scale: scala
+ - Display: schermo (nome), visualizzare (verbo)
 
 ## Grafica 3D
  - Wireframe: Fildiferro
