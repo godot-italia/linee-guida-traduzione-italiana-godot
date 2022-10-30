@@ -44,4 +44,4 @@
  - Page up: Pag su
  - Page down: Pag giù
  - Num Lock: Bloc num
- - Meta: Meta (Invariato, spesso conosciuto col nome di "Tasto Windows", "Command" o anche "Super")
+ - Meta: [Invariato] (spesso conosciuto anche col nome di "Tasto Windows", "Command" o anche "Super")
