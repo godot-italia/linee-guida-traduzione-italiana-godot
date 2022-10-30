@@ -12,7 +12,7 @@
  - Plugin: Estensione
  - Resource: Risorsa
  - Asset: Contenuto
- - Scale: scala
+ - Scale: scala (nome), ridimensiona (verbo)
  - Display: schermo (nome), visualizzare (verbo)
 
 ## Grafica 3D
