@@ -12,6 +12,7 @@
  - Plugin: Estensione
  - Resource: Risorsa
  - Asset: Contenuto
+ - Scale: scala
 
 ## Grafica 3D
  - Wireframe: Fildiferro
