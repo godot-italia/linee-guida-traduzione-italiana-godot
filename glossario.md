@@ -13,7 +13,7 @@
  - Resource: Risorsa
  - Asset: Contenuto
  - Scale: scala (nome), ridimensiona (verbo)
- - Display: schermo (nome), visualizzare (verbo)
+ - Display: schermo (nome), visualizzare (verbo, connotazione più passiva) o mostare (verbo, connotazione più attiva)
 
 ## Grafica 3D
  - Wireframe: Fildiferro
