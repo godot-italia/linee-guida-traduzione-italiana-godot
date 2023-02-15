@@ -14,9 +14,26 @@
  - Asset: Contenuto
  - Scale: scala (nome), ridimensiona (verbo)
  - Display: schermo (nome), visualizzare (verbo, connotazione più passiva) o mostare (verbo, connotazione più attiva)
+ - Unexpected = Inaspettato
+ - "Can't/Unable to/... X": "Impossibile X"
+ - "No undo": Irreversibile
+ - "Cannot/Can't be undone": "Non può essere annullato" (l'originale è esplicitamente più lungo, pertanto ha senso separare)
+ - Palette: Tavolozza
+ - Layer: Livello
+
+## Rete
+ - To spawn = Generare
+
+## XR
+ - Action (OpenXR): Azione
+
+## Ingresso
+ - To bind (relativo ai tasti): Associare
 
 ## Grafica 3D
  - Wireframe: Fildiferro
+ - Array (Godot Shading Language): Vettore
+ - Scalar: Scalare
 
 ## Programmazione
  - Debugger: Debugger (Rimane invariato non avendo trovato nessuna valida alternativa che non confonda gli utenti più esperti, che sono i primi utilizzatori di questo strumento)
@@ -27,6 +44,13 @@
  - Warning: Avviso
  - Error: Errore
  - To attach a script: Assegnare uno script
+ - To return (**verbo**, es. "return a value"): Restituire
+ - Return (**aggettivo**, es. "no return value"): Di ritorno
+ - Floating-point: Virgola mobile
+ - Array (GDScript, il concetto): (GDScript) Lista
+
+## Architettura interna
+ - "x server" (es. "physics server"): server di/del x (es. server della fisica)
 
 ## Animazione
  - (Bezier) control point: Punto di controllo (di Bézier) NOTA: Nelle stringhe originali, "Bézier" è scritto senza accento. Questo è un errore da non riportare nella traduzione.
